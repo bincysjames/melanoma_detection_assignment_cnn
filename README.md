@@ -41,7 +41,3 @@ Pigmented benign keratosis
 Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
-
-# Result 
-ACCURACY='88%'
-VALLIDATION_ACCURACY='74%'
